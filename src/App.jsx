@@ -10,7 +10,7 @@ import {
   FileText,
   Users,
 } from "lucide-react";
-import ServiceCard from "./components/ServiceCard";
+import ServiceCard from "./components/ExpertiseCard.jsx";
 import QualificationCard from "./components/QualificationCard";
 import SkillCard from "./components/SkillCard";
 import ContactInfo from "./components/ContactInfo";
