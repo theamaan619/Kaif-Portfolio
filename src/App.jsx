@@ -53,7 +53,7 @@ function App() {
             </div>
             <div className="md:w-1/2 flex justify-center">
               <img
-                src="public\KaifProfile.jpg"
+                src="/KaifProfile.jpg"
                 alt="Professional headshot"
                 className="rounded-full w-64 h-64 object-cover object-top border-4 border-white shadow-lg"
               />
