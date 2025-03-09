@@ -35,7 +35,7 @@ function App() {
                 Kaif Sankhala
               </h1>
               <h2 className="text-2xl md:text-3xl text-indigo-200 mb-6">
-                Society Admin Professional
+                Society Finance Management
               </h2>
               <p className="text-lg text-indigo-100 mb-8">
                 Dedicated Society Administrator responsible for the complete
@@ -130,12 +130,12 @@ function App() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             <QualificationCard
               year="2022 -  present"
-              title="Working as a Society Administrator"
+              title="Working as a Society Financial Management"
               organization="Mangesh Solutions Corporation"
               description="Working directly under CAs handling complex financial reporting and tax preparation for diverse clients."
             />
             <QualificationCard
-              year="2015"
+              year="2024"
               title="Bachelor of Commerce"
               organization="Shekhawati University"
               description="Graduated with B.Com Degree"
@@ -154,7 +154,7 @@ function App() {
             <div className="flex flex-col md:flex-row justify-around items-center space-y-6 md:space-y-0">
               <ContactInfo
                 icon={<Phone className="w-6 h-6" />}
-                text="+91 9549979680"
+                text="9549979680"
                 type="phone"
               />
               <ContactInfo
