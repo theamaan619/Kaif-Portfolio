@@ -154,8 +154,9 @@ function App() {
             <div className="flex flex-col md:flex-row justify-around items-center space-y-6 md:space-y-0">
               <ContactInfo
                 icon={<Phone className="w-6 h-6" />}
-                text="9549979680"
+                text="+91 9549979680"
                 type="phone"
+                link="+91 9549979680"
               />
               <ContactInfo
                 icon={<Mail className="w-6 h-6" />}
