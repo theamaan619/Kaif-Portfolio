@@ -31,8 +31,8 @@ function App() {
         <div className="container mx-auto px-6 py-20">
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="md:w-1/2 mb-8 md:mb-0">
-              <h1 className="text-4xl md:text-5xl font-bold mb-4">
-                Kaif Sankhala
+              <h1 className="text-4xl md:text-5xl font-bold mb-4 animate-bounce ">
+                Kaif Hamid Sankhala
               </h1>
               <h2 className="text-2xl md:text-3xl text-indigo-200 mb-6">
                 Society Finance Management
